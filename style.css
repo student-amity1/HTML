@@ -2,3 +2,9 @@ p{
     color: red;
     background-color: blueviolet;
 }
+
+body{
+    background-color: azure;
+    margin: auto;
+    padding: 0%;
+}
